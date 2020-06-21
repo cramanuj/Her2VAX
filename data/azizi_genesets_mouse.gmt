@@ -1,0 +1,20 @@
+Treg	PUBMED: 29961579	Lgals1	Izumo1r	Ctla4	Stat5b	Stat5a	Lag3	Cd4	Il12a	Il2ra	Nt5e	Entpd1	Ebi3	Il10	Lrrc32	Cd3g	Itgae	Foxp3	Cd3e	Sell	Cd3d	Tnfrsf18	Cd5	Tnfrsf4
+CD8 T Cell Activation	PUBMED: 29961579	Ctla4	Eomes	Icos	Ccr7	Cd8a	Il2ra	Lag3	Cd69	Cd8b1	H2-Ea-ps	Tnfrsf4	Ifng	Cd40lg	Tnfrsf9	Cd47	Tnfrsf18	Gzma	Cd3e	Prf1	Btla	Gzme	Gzmd	Gzmg	Gzmf	Gzmn	Gzmc	Gzmb	Cd27	Lamp1
+Anti-inflammatory	PUBMED: 29961579	Pdcd1	Ctla4	Cd274	Lgals3	Vegfa	Ptgs2	Csf2	Ido1	Foxp3	Entpd1	Cxcl12	Tigit	Mif
+Anergy	PUBMED: 29961579	Adora2b	Gch1	Pfkp	Fyn	Ndrg1	Irf4	Zfp36l1	Tnfsf11	F2r	Rnf19a	E2f1	Nr4a2	Jarid2	Lag3	Nr4a3	Egr2	Ctse	Dusp6	Rnf128	Hlf	Adora2a	Egr3	Gadd45b	Hspa1b	Hspa1a	Egr1	E2f2	Slc29a3	Nfatc1	Rgs16
+Pro-inflammatory	PUBMED: 29961579	Tnf	Ccl2	Ccl3	Il2	Ccl4	Tlr4	Il17a	Tbx21	Il12a	Il6	Cd8a	Ptgs2	Il23a	Gzma	Ccl20	Il1b	Il1a	Fasl	Ifng	Gzme	Gzmd	Gzmg	Gzmf	Gzmn	Gzmc	Gzmb	Prf1	Gzmk
+Lipid mediators	PUBMED: 29961579	Igfbp3	Ccl2	Igfbp7	Icam1	Lep	Irs2	Ccl5	Ins1	Acacb	Igfbp2	Fgf1	Lipe	Igfbp4	Fgf2	Angptl3	Hgf	Cebpa	Igfbp1	E2f1	Lgals3	Angpt1	Ghsr	Srebf1	Fgf23	Il6	Dkk1	Agrp	Cebpb	Igfbp6	Ppargc1a	Slc2a4	Fabp4	Retn	Klf15	Ahsg	Angpt2	Il1b	Angptl4	Cfd	Agt	Fgf21	Ghrl	Crp	Cdk4	Ccnd1	Lif	Fasn	Ins2	Il10	Angptl6	Gm49369	Ctsd	Gh	Rarres2	Lpl	Il11	Esm1	Pparg	Mif	Cebpd	Axin1	Ctss	Mpo	Adipoq	Gcg	Bmp4
+Glycolysis	PUBMED: 29961579	Aldoart1	Gpi1	Aldob	Aldoart2	Pgam2	Aldoc	Pgm2	Galm	Bpgm	Pgk2	Hk3	Eno2	Tpi1	Pgm3	Pfkl	Pgm1	Gck	Pklr	Aldoa	Eno1b	Eno1	Pgk1	Hk2
+TCA cycle	PUBMED: 29961579	Mdh1b	Suclg1	Sucla2	Mdh1	Ogdh	Idh3g	Mdh2	Pcx	Pdhb	Sdha	Dlat	Idh1	Dld	Sdhb	Aco1	Fh1	Idh2	Sdhd	Pdha1	Acly	Idh3a	Aco2	Cs	Csl	Dlst	Suclg2	Idh3b
+Pentose Phosphate Pathway	PUBMED: 29961579	Rpia	Rpe	Tkt	G6pdx	G6pd2	Prps1l3	Prps1	Prps2	Rbks	Taldo1
+Glycogen Metabolism	PUBMED: 29961579	Ugp2	Phkg1	Pygl	Gys2	Pgm2	Gsk3b	Phkb	Gys1	Agl	Pgm1	Pygm	Gbe1	Gsk3a	Phka1	Pgm3	Phkg2
+Glucose Deprivation	PUBMED: 29961579	Nrn1	Adamts6	Havcr2	Spry1	Soat2	Gadd45b	Gpnmb	Fam129a
+M1 Macrophage Polarization	PUBMED: 29961579	Tnf	Ccl5	Ccr7	Irf1	Il6	Kynu	Cd86	Marco	Il1a	Cd14	Cd40	Cxcl11	Il1b	Cxcl10	Cxcl9	Cd80	Irf5	Ido1
+M2 Macrophage Polarization	PUBMED: 29961579	Mmp14	Ctsb	Il4ra	Lyve1	Csf1r	Arg2	Ccl4	Tgfb3	Arg1	Ccl3	Il1r2	Il1rn	Vegfb	Wnt7b	Vegfa	Tnfsf12	Cd276	Irf4	Clec7a	Ccl17	Cd200r4	Cd200r2	Cd200r3	Vtcn1	Mmp9	Ccl22	Marco	Tnfsf8	Vegfd	Ccl24	Vegfc	Tgfb2	Il10	Gm49369	Ctsd	Fn1	Ctsa	Msr1	Egf	Ccl20	Cd163	Cd14	Mmp19	Cd200r1
+Cytolytics effector pathway	PUBMED: 29961579	Eomes	Tbx21	Gzme	Gzmd	Gzmg	Gzmf	Gzmn	Gzmc	Gzmb	Prf1	Gzma
+Type I Interferon response	PUBMED: 29961579	Trex1	Rtp4	Oasl1	Ly6e	Il15	Ifi44l	Irf1	Mcoln2	Adar	Ifitm7	Ifitm2	Ifitm1	Ifitm3	Tlr3	Nampt	Ddx58	Ifih1	Mx1	Mx2	Isg15
+Type II Interferon Response	PUBMED: 29961579	Smad7	Irf1	Ifng	Cxcl9	Cxcl10	Stat1
+Hypoxia/HIF regulated	PUBMED: 29961579	Tnf	Aldoart1	Trap1	Jun	Itk	Il4	Map3k5	Nfkb2	Nfkbie	Il5	Bcl2	Gm3839	Il2ra	Aldoart2	Cebpb	Il1r1	Il13	Mif	Tnfrsf1b	Map2k1	Aldoa	Itga6	Src	Ifng	Ifnb1	Fasl	Bcl2l1	Nfatc1	Il6ra	Gm10358	Gapdh	Map2k2	Ccr6	Fas	Csf2	Fos	Tradd	Tgm6
+TCell Terminal Differentiation	PUBMED: 29961579	Pdcd1	Ctla4	Cd274	Lag3	Havcr2	Cd244a	Tigit	Cd160
+G1/S	PUBMED: 29961579	H2afv	Hist1h2bk	Hist1h4i	Cdc6	Slbp	Hist1h3g	Cdc45	Hist1h3d	Hist1h4f	Hist1h4d	Hist1h1d	Hist1h4h	H1f0	Dhfr	Hist1h1t	Hist1h2bb	Hist1h1c	Hist1h4c	Hist1h1a	Hist1h2be	Hist1h2ac	Hist1h1e	Hist1h2bc	Hist1h2aa	Hist1h4m	Hist1h2ba	Hist1h2bm	H2afb2	H2afb1	H2afb3	Mcm2	Hist1h2bp	Rrm2	Rrm1	Tyms	Cdkn2c	H2afy	Hist1h1b	Ccne1	Msh2	H1fnt	E2f1	Hist1h4k	Mcm6	H1foo	Hist2h2ab	E2f5	Npat	Hist2h2bb	Brca1	H2afx	H2bfm	Cdkn1a	Cdc25a	Hist3h2a	Nasp	H2afj	Cdkn3	H2afz	H2afy2	Hist2h2aa2	Hist2h2aa1	Hist4h4	Ccne2	H3f3b	1700024P04Rik	H3f3a	Brca2	Ccng2	Hist2h2be	H1fx	Pcna
+G2/M	PUBMED: 29961579	Racgap1	Cdkn2d	Top2a	Ccnb2	Ccna2	Bub1b	Birc5	Cdk1	Plk1	Cdc25b	Ccnb1	Cdc25c	Cks2	Bub1	Aurka	Cenpf	Kif20a	Cenpa	Cdc20	Ccnf
